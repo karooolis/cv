@@ -27,7 +27,7 @@ export const RESUME_DATA = {
   about:
     "Full-stack engineer focused on building products with extra attention to detail.",
   summary:
-    "As a full-stack engineer, I have successfully taken multiple products from 0 to 1. I lead teams effectively, ensuring an environment where people can do their best work. Currently, I work mostly with TypeScript, React, Node.js, and GraphQL. I have over 8 years of experience in working remotely with companies all around the world.",
+    "As a full-stack engineer, I have successfully taken multiple projects from 0 to 1. I enjoy collaborating with stakeholders bringing clarity to ambiguity by effectively refining requirements, wireframing, prototyping, and using proven software development practices to deliver the results. Currently, I mostly work with TypeScript, React, Next.js, Node.js, and GraphQL.",
   avatarUrl:
     "https://avatars.githubusercontent.com/u/3159964?s=400&u=450056fc5538e12690b6d2dc8cf155ec5ae885b1&v=4",
   personalWebsiteUrl: "https://krl.is",
@@ -69,26 +69,22 @@ export const RESUME_DATA = {
     {
       title: "ETHGlobal Istanbul",
       date: "Nov 2023",
-      description:
-        "Won the 1st place in CoW Programmatic Framework track, as well as integration prizes in WalletConnect and Gnosis Chain tracks. The project was a multi-chain and multi-currency payroll system.",
+      description: "1st place, CoW Programmatic Framework track",
     },
     {
       title: "Hack4Vilnius",
       date: "Oct 2023",
-      description:
-        "Hack4Vilnius is a 3-days hackathon with the aim on improving Vilnius city. Our solution https://idejavilniui.lt/, citizens engagement platform, won the 1st place, 1500 EUR in prizes and future mentorship.",
+      description: "1st place, main track",
     },
     {
-      title: "Hack Lancaster Most Beautiful Data Award",
+      title: "Hack Lancaster",
       date: "Nov 2014",
-      description:
-        "Hack4Vilnius is a 3-days hackathon with the aim on improving Vilnius city. Our solution https://idejavilniui.lt/, citizens engagement platform, won the 1st place, 1500 EUR in prizes and future mentorship.",
+      description: "Most Beautiful Data Award",
     },
     {
-      title: "Lithuania Developer Days 1st place",
+      title: "Lithuania Developer Days",
       date: "Jul 2014",
-      description:
-        "Lithuania Developer Days 2014 was a multi-day educational event/hackathon where you got points for various completed tasks like setting up a new HTML5 app, cloud-based server and similar.",
+      description: "1st place, main track",
     },
   ],
   work: [
@@ -101,7 +97,7 @@ export const RESUME_DATA = {
       start: "2023",
       end: "2023",
       description:
-        "Participated in audits of numerous projects for real-world clients such as ThirdWeb, Synthetix, PoolTogether, and more. Learned best development and security practices for building secure smart contracts. Technologies: Foundry, Hardhat, Solidity.",
+        "Participated in audits for high-TVL protocols such as Synthetix, PoolTogether, and more. Learned best development and security practices for building secure smart contracts. Technologies: Foundry, Hardhat, Solidity.",
     },
     {
       company: "Volvo Cars",
@@ -112,7 +108,7 @@ export const RESUME_DATA = {
       start: "2020",
       end: "2022",
       description:
-        "Developed and optimized components for Volvo Cars' design system. Led the creation of a custom CMS and internalization tool. Coded the front- end and GraphQL layers, and set up the infrastructure. Technologies: React, Next.js, TypeScript, GraphQL",
+        "Developed and optimized components for Volvo Cars' design system. Led the creation of a custom CMS and internalization tool. Technologies: React, Next.js, TypeScript, GraphQL, Docker.",
     },
     {
       company: "Uber",
@@ -123,18 +119,18 @@ export const RESUME_DATA = {
       start: "2018",
       end: "2020",
       description:
-        "Worked on observability tools for incident discovery and mitigation, serving over 3,000 Uber engineers. Spearheaded the front-end development of two internal tools for incident mitigation, involving complex functionalities like annotation, labeling, real-time alerts, custom graphs, and efficient handling of large data sets.",
+        "Spearheaded front-end development of observability tools for incident discovery and mitigation, serving over 3,000 Uber engineers. Technologies: React, Flow, GraphQL, Docker.",
     },
     {
       company: "Toptal",
-      link: "https://www.toptal.com",
+      link: "https://www.toptal.com/resume/karolis-ramanauskas",
       badges: ["Remote"],
       title: "Full-stack Engineer",
       logo: NSNLogo,
       start: "2017",
       end: "2018",
       description:
-        "Successfully completed multiple full-stack freelance projects, resulting in high levels of client satisfaction.",
+        "Successfully completed multiple full-stack freelance projects, resulting in high levels of client satisfaction. Technologies: React, JavaScript.",
     },
     {
       company: "Nielsen",
@@ -145,13 +141,13 @@ export const RESUME_DATA = {
       start: "2017",
       end: "2018",
       description:
-        "Analyzed data for large companies to identify profitable product categories and optimize pricing strategies as a data scientist. Transitioned to a software development role, creating Python scripts for workflow automation, and developing complex data visualizations using D3.js to support client data analysis.",
+        "Crunched data for large companies to optimize pricing strategies. Transitioned to a software development role, creating Python scripts for workflow automation, and developing complex data visualizations using D3.js to support client data analysis. Technologies: React, D3.js, Python.",
     },
   ],
   skills: [
     "JavaScript",
     "TypeScript",
-    "React/Next.js/Remix",
+    "React / Next.js",
     "Node.js",
     "GraphQL",
     "Solidity",
